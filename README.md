@@ -1,1 +1,1 @@
-# holbertonschool-shell
+This repository is for shell program projects
